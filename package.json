@@ -1,7 +1,7 @@
 {
-  "name": "gatsby-deployment",
+  "name": "widt-gatsby",
   "private": true,
-  "description": "Netifly Deployment Test",
+  "description": "Deployment Test",
   "version": "0.1.0",
   "author": "Kyle Mathews <mathews.kyle@gmail.com>",
   "dependencies": {
